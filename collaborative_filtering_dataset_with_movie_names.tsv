@@ -1,0 +1,1649 @@
+user_id	movie_id	rating	name
+12020056	438	8	Dangal
+12020056	262	9.5	Uri: The Surgical Strike
+12020056	288	9	Andhadhun
+12020056	240	8.5	Badhaai Ho
+12020056	385	8.5	Airlift
+12020056	40	1	Jawaani Jaaneman
+12020056	397	7	M.S. Dhoni: The Untold Story
+12020056	221	8.5	Raazi
+12020056	465	8	Kahaani 2
+12020056	279	4	Stree
+12020056	421	5	Madaari
+12020056	79	7	Khuda Haafiz
+12020056	120	7.5	Mission Mangal
+12020056	205	7.5	Raid
+12020056	80	8.5	Bamfaad
+12020056	353	7	Jolly LLB 2
+12020056	204	8.5	Sonu Ke Titu Ki Sweety
+12020056	463	2	Wazir
+12020056	173	7	Good Newwz
+12020056	244	3	Kedarnath
+12020021	0	5	B.A. Pass 3
+12020021	2	8	The Big Bull
+12020021	3	8	Hello Charlie
+12020021	5	9	Ammaa Ki Boli
+12020021	7	8	Refl3ct
+12020021	9	9	Raat Baaki Hai
+12020021	10	5	Sandeep Aur Pinky Faraar
+12020021	11	10	Cheer Haran
+12020021	14	7	Consequence Karma
+12020021	15	6	Tribhanga
+12020021	18	1	Mumbai Saga
+12020021	19	2	Mosagallu
+12020021	21	3	Jamun
+12020021	23	2	Gaurav Gupta: Market Down Hai
+12020021	25	2	Secrets of Sinauli
+12020009	40	4	Jawaani Jaaneman
+12020009	43	6	Angrezi Medium
+12020009	63	8	Tanhaji: The Unsung Warrior
+12020009	467	7	Rustom
+12020009	457	3	Dishoom
+12020009	103	6	Super 30
+12020009	104	5	Mardaani 2
+12020009	221	8	Raazi
+12020009	264	8	Hichki
+12020009	268	7	Pad Man
+12020009	279	10	Stree
+12020009	310	5	Toilet: A Love Story
+12020009	315	10	The Ghazi Attack
+12020009	316	7	Mom
+12020009	356	2	Jagga Jasoos
+12020009	368	1	Raees
+12020009	217	1	Zero
+12020009	383	2	Tiger Zinda Hai
+12020009	241	6	Simmba
+12020009	438	9	Dangal
+12020064	28	10	Thappad
+12020064	102	10	The Sky Is Pink
+12020064	137	8	Section 375
+12020064	150	9	Badla
+12020064	158	9	Gully Boy
+12020064	214	7	October
+12020064	226	7	Sanju
+12020064	243	3	Pari
+12020064	255	5	Vodka Diaries
+12020064	268	7	Pad Man
+12020064	279	7	Stree
+12020064	306	5	Tumhari Sulu
+12020064	311	8	Badrinath Ki Dulhania
+12020064	329	8	Naam Shabana
+12020064	340	8	Shubh Mangal Savdhan
+12020064	359	3	Chef
+12020064	379	2	Jab Harry Met Sejal
+12020064	383	7	Tiger Zinda Hai
+12020064	397	9	M.S. Dhoni: The Untold Story
+12020064	416	10	Pink
+12020064	428	9	Kapoor & Sons
+12020064	433	7	Neerja
+12020064	439	2	Fan
+12020064	452	9	Udta Punjab
+12020064	456	8	Happy Bhaag Jayegi
+12020084	18	5	Mumbai Saga
+12020084	4	8	The White Tiger
+12020084	2	9	The Big Bull
+12020084	311	7	Badrinath Ki Dulhania
+12020084	285	9	Lust Stories
+12020084	233	9	Padmaavat
+12020084	217	4	Zero
+12020084	204	8	Sonu Ke Titu Ki Sweety
+12020084	209	9	Tumbbad
+12020084	208	4	Aadamkhor
+12020084	279	8	Stree
+12020084	49	4	My Client's Wife
+12020084	182	5	Commando 3
+12020084	315	9	The Ghazi Attack
+12020084	465	9	Kahaani 2
+12020084	383	3	Tiger Zinda Hai
+12020084	240	9	Badhaai Ho
+12020084	379	5	Jab Harry Met Sejal
+12020084	428	9	Kapoor & Sons
+12020084	71	9	Ludo
+12020007	63	10	Tanhaji: The Unsung Warrior
+12020007	66	2	Ginny Weds Sunny
+12020007	78	5	Shakuntala Devi
+12020007	84	4	Gunjan Saxena: The Kargil Girl
+12020007	98	7	Ahaan
+12020007	103	8	Super 30
+12020007	109	9	The Accidental Prime Minister
+12020007	140	10	Kesari
+12020007	158	8	Gully Boy
+12020007	162	9	The Tashkent Files
+12020007	173	4	Good Newwz
+12020007	217	2	Zero
+12020007	221	8	Raazi
+12020007	233	8	Padmaavat
+12020007	244	7	Kedarnath
+12020007	262	10	Uri: The Surgical Strike
+12020007	272	6	Hotel Mumbai
+12020007	380	8	Hindi Medium
+12020007	404	4	Ae Dil Hai Mushkil
+12020007	428	9	Kapoor & Sons
+12020059	43	2.3	Angrezi Medium
+12020059	48	4.5	Dil Bechara
+12020059	58	2.2	Panga
+12020059	107	9.4	Lucifer
+12020059	128	2.3	House Arrest
+12020059	158	6.4	Gully Boy
+12020059	182	8.4	Commando 3
+12020059	206	9.4	Aiyaary
+12020059	253	4.4	Mulk
+12020059	279	2.1	Stree
+12020059	315	9.3	The Ghazi Attack
+12020059	341	2.5	Maroon
+12020059	372	6.1	Kaabil
+12020059	400	3.3	Gurgaon
+12020059	408	1.4	Pihu
+12020059	416	8.2	Pink
+12020059	454	4.5	Fitoor
+12020066	438	8.7	Dangal
+12020066	431	5.3	Lipstick Under My Burkha
+12020066	413	7.5	Ki & Ka
+12020066	397	9.8	M.S. Dhoni: The Untold Story
+12020066	383	4.5	Tiger Zinda Hai
+12020066	380	10	Hindi Medium
+12020066	278	9.7	102 Not Out
+12020066	262	10	Uri: The Surgical Strike
+12020066	240	9.8	Badhaai Ho
+12020066	235	7.2	Blackmail
+12020066	147	4.7	Pati Patni Aur Woh
+12020066	141	8.3	Chhichhore
+12020066	128	5	House Arrest
+12020066	123	7	Article 15
+12020066	71	3	Ludo
+12020066	38	6.5	Bulbbul
+12002077	278	7	102 Not Out
+12002077	363	6	1982 - A Love Marriage
+12002077	236	6	2
+12002077	93	6	22 Yards
+12002077	218	7	3 Storeys
+12002077	82	6	376 D
+12002077	466	6	7 Hours to Go
+12002077	144	5	706
+12002077	157	5	72 Hours: Martyr Who Never Died
+12002077	177	7	99 Songs
+12002077	396	8	A Billion Colour Story
+12002077	455	8	A Death in the Gunj
+12002077	50	6	A Game Called Relationship
+12002077	384	6	A Gentleman
+12002077	375	7	A Suitable Girl
+12020013	24	7	Pagglait
+12020013	28	7	Thappad
+12020013	40	4	Jawaani Jaaneman
+12020013	43	7	Angrezi Medium
+12020013	66	3	Ginny Weds Sunny
+12020013	67	6	Chaman Bahaar
+12020013	71	8	Ludo
+12020013	72	7	Lootcase
+12020013	87	5	Chintu Ka Birthday
+12020013	89	4	Gulabo Sitabo
+12020013	97	7	Photograph
+12020013	196	7	Love Per Square Foot
+12020013	204	7	Sonu Ke Titu Ki Sweety
+12020013	205	5	Raid
+12020013	209	1	Tumbbad
+12020013	221	9	Raazi
+12020013	238	2	Batti Gul Meter Chalu
+12020013	240	8	Badhaai Ho
+12020013	256	3	Sui Dhaaga
+12020013	268	7	Pad Man
+12020013	279	9	Stree
+12020013	288	9	Andhadhun
+12020092	28	9	Thappad
+12020092	201	6	Kaala
+12020092	264	6	Hichki
+12020092	416	8	Pink
+12020092	434	7	Baaghi
+12020092	438	10	Dangal
+12020092	320	4	OK Jaanu
+12020092	91	4	Suraj Pe Mangal Bhari
+12020092	466	3	7 Hours to Go
+12020092	458	6	The Karma Killings
+12020092	441	5	Machines
+12020092	435	6	Traffic
+12020092	322	8	LIE
+12020092	324	3	Daddy
+12020092	307	8	Raag Desh
+12020092	294	7	The Hungry
+12020092	292	3	FryDay
+12020092	281	1	Karwaan
+12020092	284	6	Pataakha
+12020092	295	7	Meri Pyaari Bindu
+12020065	4	8	The White Tiger
+12020065	15	6	Tribhanga
+12020065	19	2	Mosagallu
+12020065	24	7	Pagglait
+12020065	28	7	Thappad
+12020065	38	5	Bulbbul
+12020065	43	8	Angrezi Medium
+12020065	48	6	Dil Bechara
+12020065	60	8	Soorarai Pottru
+12020065	71	9	Ludo
+12020065	77	3	V
+12020065	81	7	Darbar
+12020065	102	9	The Sky Is Pink
+12020065	158	8	Gully Boy
+12020065	188	8	Prassthanam
+12020065	209	9	Tumbbad
+12020065	224	8	Vada Chennai
+12020065	241	4	Simmba
+12020065	244	5	Kedarnath
+12020065	397	8	M.S. Dhoni: The Untold Story
+12020101	5	1	Ammaa Ki Boli
+12020101	16	7	Silence: Can You Hear It
+12020101	28	3	Thappad
+12020101	42	10	Shubh Mangal Zyada Saavdhan
+12020101	43	10	Angrezi Medium
+12020101	75	6	Malang
+12020101	89	8	Gulabo Sitabo
+12020101	94	6	Panipat
+12020101	104	4	Mardaani 2
+12020101	122	3	Luka Chuppi
+12020101	182	2	Commando 3
+12020101	221	9	Raazi
+12020101	244	10	Kedarnath
+12020101	262	8	Uri: The Surgical Strike
+12020101	288	7	Andhadhun
+12020101	310	10	Toilet: A Love Story
+12020101	353	9	Jolly LLB 2
+12020101	368	7	Raees
+12020101	402	1	Force 2
+12020101	416	9	Pink
+12020097	122	6	Luka Chuppi
+12020097	141	8	Chhichhore
+12020097	264	7	Hichki
+12020097	304	7	Fukrey Returns
+12020097	103	7.5	Super 30
+12020097	104	6.5	Mardaani 2
+12020097	134	6	Bala
+12020097	140	6.5	Kesari
+12020097	158	8	Gully Boy
+12020097	241	4.5	Simmba
+12020097	262	8.5	Uri: The Surgical Strike
+12020097	336	4.7	Commando 2
+12020097	353	6.8	Jolly LLB 2
+12020035	4	8	The White Tiger
+12020035	2	8	The Big Bull
+12020035	15	6	Tribhanga
+12020035	28	6	Thappad
+12020035	42	5	Shubh Mangal Zyada Saavdhan
+12020035	453	7	Sultan
+12020035	454	2	Fitoor
+12020035	463	3	Wazir
+12020035	438	10	Dangal
+12020035	428	2	Kapoor & Sons
+12020035	372	4	Kaabil
+12020035	353	8	Jolly LLB 2
+12020035	335	7	Secret Superstar
+12020035	262	10	Uri: The Surgical Strike
+12020035	226	8	Sanju
+12020035	204	9	Sonu Ke Titu Ki Sweety
+12020035	166	7	Dream Girl
+12020035	155	7	Kabir Singh
+12020035	114	6	Ujda Chaman
+12020035	63	10	Tanhaji: The Unsung Warrior
+12020053	413	5	Ki & Ka
+12020053	130	9	Gumnaami
+12020053	421	10	Madaari
+12020053	48	7	Dil Bechara
+12020053	330	8	Behen Hogi Teri
+12020053	249	9	Parmanu: The Story of Pokhran
+12020053	173	10	Good Newwz
+12020053	335	1	Secret Superstar
+12020053	93	5	22 Yards
+12020053	471	6	Phobia
+12020053	98	4	Ahaan
+12020053	361	8	Bhoomi
+12020053	428	3	Kapoor & Sons
+12020053	15	8	Tribhanga
+12020053	51	6	Ghoomketu
+12020053	234	6	Reason
+12020053	117	8	Cargo
+12020053	4	10	The White Tiger
+12020053	301	9	Bioscopewala
+12020053	434	3	Baaghi
+12020054	63	8	Tanhaji: The Unsung Warrior
+12020054	84	6.5	Gunjan Saxena: The Kargil Girl
+12020054	94	7	Panipat
+12020054	101	7.2	Manikarnika: The Queen of Jhansi
+12020054	120	8.3	Mission Mangal
+12020054	123	6.7	Article 15
+12020054	169	4.1	Chhota Bheem Kung Fu Dhamaka
+12020054	173	5	Good Newwz
+12020054	205	7.1	Raid
+12020054	240	5.3	Badhaai Ho
+12020054	249	6.8	Parmanu: The Story of Pokhran
+12020054	262	7.7	Uri: The Surgical Strike
+12020054	315	6.9	The Ghazi Attack
+12020054	340	7.1	Shubh Mangal Savdhan
+12020054	353	6.4	Jolly LLB 2
+12020054	383	5.8	Tiger Zinda Hai
+12020054	385	8.1	Airlift
+12020054	434	7.6	Baaghi
+12020054	64	6.1	Bhoot: Part One - The Haunted Ship
+12020054	151	3.8	Ek Ladki Ko Dekha Toh Aisa Laga
+12020017	19	7.9	Mosagallu
+12020017	257	6.2	Roshni
+12020017	323	7.1	Qarib Qarib Single
+12020017	140	7.4	Kesari
+12020017	315	7.6	The Ghazi Attack
+12020017	347	6.8	Khoj
+12020017	210	5.6	Helicopter Eela
+12020017	378	5.4	Hanuman Da Damdaar
+12020017	240	8	Badhaai Ho
+12020017	65	7.9	All Ladies Do It
+12020017	324	6.4	Daddy
+12020017	369	6.8	Main Tumhare Bachche ki Maa Banne Waali Hoon
+12020017	299	6.5	Alif
+12020017	83	7	Unpaused
+12020017	227	5.8	Rajma Chawal
+12020017	164	7.9	The Last Color
+12020017	32	6.2	Doordarshan
+12020017	387	5.5	Chhota Bheem Himalayan Adventure
+12020017	228	7.9	Tony: My Mentor the Serial Killer
+12020017	235	7.1	Blackmail
+12020001	158	8	Gully Boy
+12020001	166	9	Dream Girl
+12020001	172	8	Notebook
+12020001	173	7	Good Newwz
+12020001	217	4	Zero
+12020001	262	10	Uri: The Surgical Strike
+12020001	434	4	Baaghi
+12020001	147	5	Pati Patni Aur Woh
+12020001	438	9	Dangal
+12020001	452	6	Udta Punjab
+12020012	4	6	The White Tiger
+12020012	28	7	Thappad
+12020012	47	8	Pepper Chicken
+12020012	70	3	Court Martial
+12020012	151	6	Ek Ladki Ko Dekha Toh Aisa Laga
+12020012	463	8	Wazir
+12020012	153	9	The Lift Boy
+12020012	155	7	Kabir Singh
+12020012	172	5	Notebook
+12020012	199	6	Evening Shadows
+12020012	214	7	October
+12020012	244	5	Kedarnath
+12020012	293	4	Mirror Game
+12020012	353	9	Jolly LLB 2
+12020012	351	4	III Smoking Barrels
+12020012	356	2	Jagga Jasoos
+12020012	12	9	Skater Girl
+12020012	16	1	Silence: Can You Hear It
+12020012	34	10	Comedy Couple
+12020012	62	5	Happy Hardy and Heer
+12020022	28	9	Thappad
+12020022	58	6	Panga
+12020022	63	10	Tanhaji: The Unsung Warrior
+12020022	78	7	Shakuntala Devi
+12020022	84	3	Gunjan Saxena: The Kargil Girl
+12020022	89	5	Gulabo Sitabo
+12020022	97	8	Photograph
+12020022	103	6	Super 30
+12020022	104	7	Mardaani 2
+12020022	120	9	Mission Mangal
+12020022	134	2	Bala
+12020022	137	9	Section 375
+12020022	162	10	The Tashkent Files
+12020022	164	8	The Last Color
+12020022	204	1	Sonu Ke Titu Ki Sweety
+12020022	209	8	Tumbbad
+12020022	214	7	October
+12020022	233	5	Padmaavat
+12020022	241	4	Simmba
+12020022	256	6	Sui Dhaaga
+12020022	262	10	Uri: The Surgical Strike
+12020022	278	7	102 Not Out
+12020022	305	7	Shaadi Mein Zaroor Aana
+12020022	306	7	Tumhari Sulu
+12020022	310	8	Toilet: A Love Story
+12020022	311	2	Badrinath Ki Dulhania
+12020022	335	9	Secret Superstar
+12020022	338	7	Sachin - A Billion Dreams
+12020022	340	7	Shubh Mangal Savdhan
+12020022	343	9	Newton
+12020022	383	2	Tiger Zinda Hai
+12020022	385	8	Airlift
+12020022	397	9	M.S. Dhoni: The Untold Story
+12020022	404	1	Ae Dil Hai Mushkil
+12020022	416	8	Pink
+12020022	434	4	Baaghi
+12020022	453	4	Sultan
+12020022	463	8	Wazir
+12020022	467	7	Rustom
+12020022	469	1	Mohenjo Daro
+12020071	2	7	The Big Bull
+12020071	4	5	The White Tiger
+12020071	28	8	Thappad
+12020071	36	7	Chhalaang
+12020071	73	5	AK vs AK
+12020071	94	4	Panipat
+12020071	96	7	Batla House
+12020071	97	2	Photograph
+12020071	98	9	Ahaan
+12020071	103	8	Super 30
+12020071	104	7	Mardaani 2
+12020071	120	8	Mission Mangal
+12020071	126	5	Romeo Akbar Walter
+12020071	155	6	Kabir Singh
+12020071	156	5	Albert Pinto Ko Gussa Kyun Aata Hai?
+12020071	173	7	Good Newwz
+12020071	204	7.5	Sonu Ke Titu Ki Sweety
+12020071	205	7	Raid
+12020071	262	9	Uri: The Surgical Strike
+12020071	316	8.5	Mom
+12020085	28	8	Thappad
+12020085	32	3	Doordarshan
+12020085	78	4	Shakuntala Devi
+12020085	122	7	Luka Chuppi
+12020085	141	9	Chhichhore
+12020085	155	7	Kabir Singh
+12020085	179	4	War
+12020085	204	5	Sonu Ke Titu Ki Sweety
+12020085	262	9	Uri: The Surgical Strike
+12020085	288	9	Andhadhun
+12020085	305	4	Shaadi Mein Zaroor Aana
+12020085	338	8	Sachin - A Billion Dreams
+12020085	356	5	Jagga Jasoos
+12020085	368	6	Raees
+12020085	380	9	Hindi Medium
+12020085	383	4	Tiger Zinda Hai
+12020085	397	8	M.S. Dhoni: The Untold Story
+12020085	404	3	Ae Dil Hai Mushkil
+12020085	413	9	Ki & Ka
+12020085	453	7	Sultan
+12020027	2	8	The Big Bull
+12020027	94	4	Panipat
+12020027	107	5	Lucifer
+12020027	143	2	Thackeray
+12020027	158	8	Gully Boy
+12020027	162	3	The Tashkent Files
+12020027	215	1	The Dark Side of Life: Mumbai City
+12020027	233	10	Padmaavat
+12020027	244	6	Kedarnath
+12020027	262	8	Uri: The Surgical Strike
+12020027	264	5	Hichki
+12020027	288	8	Andhadhun
+12020027	338	9	Sachin - A Billion Dreams
+12020027	359	10	Chef
+12020027	383	8	Tiger Zinda Hai
+12020027	389	4	Lens
+12020027	393	9	The BFG
+12020027	397	7	M.S. Dhoni: The Untold Story
+12020027	405	7	Veerappan
+12020027	437	4	Sarbjit
+12020027	438	7	Dangal
+12020027	452	10	Udta Punjab
+12020027	453	1	Sultan
+12020027	454	5	Fitoor
+12020027	463	3	Wazir
+12020027	467	1	Rustom
+12020027	468	5	Lion
+12020027	469	9	Mohenjo Daro
+12020027	471	7	Phobia
+12020200	41	10	Class of '83
+12020200	48	10	Dil Bechara
+12020200	90	10	Chhapaak
+12020200	101	10	Manikarnika: The Queen of Jhansi
+12020200	120	10	Mission Mangal
+12020200	434	10	Baaghi
+12020200	438	10	Dangal
+12020200	169	9	Chhota Bheem Kung Fu Dhamaka
+12020200	295	9	Meri Pyaari Bindu
+12020200	79	10	Khuda Haafiz
+12020200	413	8	Ki & Ka
+12020200	380	7	Hindi Medium
+12020200	190	6	Jalebi
+12020200	311	6	Badrinath Ki Dulhania
+12020200	423	5	Ghayal Once Again
+12020200	95	4	De De Pyaar De
+12020200	414	4	Do Lafzon Ki Kahani
+12020200	14	3	Consequence Karma
+12020200	402	3	Force 2
+12020200	427	3	Dear Zindagi
+12020200	111	2	Chopsticks
+12020200	200	2	Genius
+12020200	149	1	Darkness Visible
+12020200	184	1	Gone Kesh
+12020200	186	1	Chippa
+12020200	450	1	Fuddu
+12020200	457	1	Dishoom
+12020008	10	8	Sandeep Aur Pinky Faraar
+12020008	28	9	Thappad
+12020008	42	8	Shubh Mangal Zyada Saavdhan
+12020008	43	10	Angrezi Medium
+12020008	48	7	Dil Bechara
+12020008	60	7	Soorarai Pottru
+12020008	77	7	V
+12020008	78	4	Shakuntala Devi
+12020008	90	4	Chhapaak
+12020008	103	8	Super 30
+12020008	120	9	Mission Mangal
+12020008	123	9	Article 15
+12020008	141	10	Chhichhore
+12020008	155	3	Kabir Singh
+12020008	179	7	War
+12020008	219	7	GOLD
+12020008	262	8	Uri: The Surgical Strike
+12020008	288	8	Andhadhun
+12020008	315	8	The Ghazi Attack
+12020062	59	6	London Confidental
+12020062	60	8	Soorarai Pottru
+12020062	61	4	Pareeksha
+12020062	62	3	Happy Hardy and Heer
+12020062	63	7	Tanhaji: The Unsung Warrior
+12020062	64	6	Bhoot: Part One - The Haunted Ship
+12020062	65	3	All Ladies Do It
+12020062	66	6	Ginny Weds Sunny
+12020062	67	8	Chaman Bahaar
+12020062	68	9	Shukranu
+12020062	69	5	Cookie
+12020062	70	3	Court Martial
+12020062	26	8	Shaadisthan
+12020062	27	8	Flight
+12020062	28	9	Thappad
+12020062	29	6	Serious Men
+12020062	30	9	Guilty
+12020062	31	4	Raat Akeli Hai
+12020062	32	5	Doordarshan
+12020062	33	4	Dhira
+12020062	34	3	Comedy Couple
+12020062	35	3	Ram Singh Charlie
+12020062	36	5	Chhalaang
+12020062	37	3	Mee Raqsam
+12020062	38	6	Bulbbul
+12020042	5	7	Ammaa Ki Boli
+12020042	7	5	Refl3ct
+12020042	24	2	Pagglait
+12020042	38	6	Bulbbul
+12020042	118	9	Chanakya
+12020042	129	8	Tottaa Pataaka Item Maal
+12020042	224	6	Vada Chennai
+12020042	234	6	Reason
+12020042	303	3	Tikli and Laxmi Bomb
+12020042	313	4	Love and Shukla
+12020042	347	7	Khoj
+12020042	389	6	Lens
+12020042	464	7	Saala Khadoos
+12020042	256	8	Sui Dhaaga
+12020042	209	5	Tumbbad
+12020042	203	3	Phir Se...
+12020042	171	10	Bypass Road
+12020042	144	4	706
+12020042	156	1	Albert Pinto Ko Gussa Kyun Aata Hai?
+12020042	468	7	Lion
+12020075	28	8	Thappad
+12020075	30	7	Guilty
+12020075	31	5	Raat Akeli Hai
+12020075	38	5	Bulbbul
+12020075	48	7	Dil Bechara
+12020075	60	9	Soorarai Pottru
+12020075	78	7	Shakuntala Devi
+12020075	90	7	Chhapaak
+12020075	101	5	Manikarnika: The Queen of Jhansi
+12020075	141	7	Chhichhore
+12020075	150	8	Badla
+12020075	155	4	Kabir Singh
+12020075	173	7	Good Newwz
+12020075	179	4	War
+12020075	201	6	Kaala
+12020075	221	6	Raazi
+12020075	224	8	Vada Chennai
+12020075	233	8	Padmaavat
+12020075	239	7	Vishwaroopam 2
+12020075	243	6	Pari
+12020075	244	7	Kedarnath
+12020075	316	7	Mom
+12020075	329	6	Naam Shabana
+12020075	338	9	Sachin - A Billion Dreams
+12020075	361	5	Bhoomi
+12020075	397	8	M.S. Dhoni: The Untold Story
+12020075	408	4	Pihu
+12020075	418	7	Kabali
+12020075	438	8	Dangal
+12020075	439	4	Fan
+12020075	459	6	Trapped
+12020039	4	4	The White Tiger
+12020039	9	9	Raat Baaki Hai
+12020039	10	10	Sandeep Aur Pinky Faraar
+12020039	15	15	Tribhanga
+12020039	22	22	The Power
+12020039	24	24	Pagglait
+12020039	28	28	Thappad
+12020039	30	30	Guilty
+12020039	31	31	Raat Akeli Hai
+12020039	40	40	Jawaani Jaaneman
+12020039	43	43	Angrezi Medium
+12020039	63	63	Tanhaji: The Unsung Warrior
+12020039	64	64	Bhoot: Part One - The Haunted Ship
+12020039	71	71	Ludo
+12020039	84	84	Gunjan Saxena: The Kargil Girl
+12020039	150	150	Badla
+12020039	240	240	Badhaai Ho
+12020039	427	427	Dear Zindagi
+12020039	452	452	Udta Punjab
+12020039	459	459	Trapped
+12020010	58	4	Panga
+12020010	63	6.5	Tanhaji: The Unsung Warrior
+12020010	78	4.3	Shakuntala Devi
+12020010	101	8.7	Manikarnika: The Queen of Jhansi
+12020010	103	8.2	Super 30
+12020010	120	9.6	Mission Mangal
+12020010	169	6.7	Chhota Bheem Kung Fu Dhamaka
+12020010	175	8.3	Junglee
+12020010	204	6.4	Sonu Ke Titu Ki Sweety
+12020010	221	8.4	Raazi
+12020010	233	3.5	Padmaavat
+12020010	244	7.5	Kedarnath
+12020010	249	8.8	Parmanu: The Story of Pokhran
+12020010	262	9.9	Uri: The Surgical Strike
+12020010	264	8.9	Hichki
+12020010	279	7.5	Stree
+12020010	335	8.9	Secret Superstar
+12020010	356	3.2	Jagga Jasoos
+12020010	368	1	Raees
+12020010	406	2.5	Moh Maya Money
+12020100	191	7	Laila Majnu
+12020100	221	8	Raazi
+12020100	262	9	Uri: The Surgical Strike
+12020100	353	7	Jolly LLB 2
+12020100	372	8	Kaabil
+12020100	397	8	M.S. Dhoni: The Untold Story
+12020100	438	9	Dangal
+12020100	217	4	Zero
+12020100	347	4	Khoj
+12020100	383	6	Tiger Zinda Hai
+12020100	435	6	Traffic
+12020063	163	8	Praana
+12020063	292	5	FryDay
+12020063	102	9	The Sky Is Pink
+12020063	99	7	Chhappad Phaad Ke
+12020063	203	6	Phir Se...
+12020063	161	7	Judgementall Hai Kya
+12020063	172	7	Notebook
+12020063	147	5	Pati Patni Aur Woh
+12020063	215	4	The Dark Side of Life: Mumbai City
+12020063	382	6	Long Live Brij Mohan
+12020063	267	6	Gaon
+12020063	139	9	Jhalki
+12020063	409	6	Land of the Gods
+12020063	144	5	706
+12020063	21	3	Jamun
+12020063	180	6	Malaal
+12020063	428	2	Kapoor & Sons
+12020063	43	9	Angrezi Medium
+12020063	70	8	Court Martial
+12020063	193	4	Har Kisse Ke Hisse: Kaamyaab
+12020098	2	6	The Big Bull
+12020098	4	7	The White Tiger
+12020098	12	8	Skater Girl
+12020098	16	6	Silence: Can You Hear It
+12020098	18	2	Mumbai Saga
+12020098	27	7	Flight
+12020098	28	8	Thappad
+12020098	29	7	Serious Men
+12020098	30	6	Guilty
+12020098	31	8	Raat Akeli Hai
+12020098	42	5	Shubh Mangal Zyada Saavdhan
+12020098	43	9	Angrezi Medium
+12020098	58	6	Panga
+12020098	64	1	Bhoot: Part One - The Haunted Ship
+12020098	71	4	Ludo
+12020098	72	9	Lootcase
+12020098	73	3	AK vs AK
+12020098	79	4	Khuda Haafiz
+12020098	84	4	Gunjan Saxena: The Kargil Girl
+12020098	89	1	Gulabo Sitabo
+12020015	2	7	The Big Bull
+12020015	10	5	Sandeep Aur Pinky Faraar
+12020015	24	8.5	Pagglait
+12020015	38	9	Bulbbul
+12020015	78	9	Shakuntala Devi
+12020015	103	9.5	Super 30
+12020015	120	9.5	Mission Mangal
+12020015	113	6.5	Axone
+12020015	155	7.5	Kabir Singh
+12020015	158	9	Gully Boy
+12020015	295	3	Meri Pyaari Bindu
+12020015	320	2.5	OK Jaanu
+12020015	204	6.5	Sonu Ke Titu Ki Sweety
+12020015	217	2	Zero
+12020015	413	2.5	Ki & Ka
+12020015	438	10	Dangal
+12020015	356	4	Jagga Jasoos
+12020015	95	3.5	De De Pyaar De
+12020015	44	2.5	Choked
+12020015	84	7.5	Gunjan Saxena: The Kargil Girl
+12020045	262	8.8	Uri: The Surgical Strike
+12020045	288	8.2	Andhadhun
+12020045	416	8.2	Pink
+12020045	63	8.1	Tanhaji: The Unsung Warrior
+12020045	233	8.1	Padmaavat
+12020045	249	8.1	Parmanu: The Story of Pokhran
+12020045	397	8	M.S. Dhoni: The Untold Story
+12020045	316	7.8	Mom
+12020045	150	7.7	Badla
+12020045	123	7.6	Article 15
+12020045	196	7.5	Love Per Square Foot
+12020045	96	7.3	Batla House
+12020045	102	7.1	The Sky Is Pink
+12020045	109	6.8	The Accidental Prime Minister
+12020045	18	6.6	Mumbai Saga
+12020045	140	6.4	Kesari
+12020045	28	6.1	Thappad
+12020045	84	5.8	Gunjan Saxena: The Kargil Girl
+12020045	121	5.1	Made in China
+12020045	312	4.1	Raabta
+12020078	8	3	Kaagaz
+12020078	23	3	Gaurav Gupta: Market Down Hai
+12020078	40	5	Jawaani Jaaneman
+12020078	78	6	Shakuntala Devi
+12020078	84	8	Gunjan Saxena: The Kargil Girl
+12020078	91	1	Suraj Pe Mangal Bhari
+12020078	103	9	Super 30
+12020078	109	7	The Accidental Prime Minister
+12020078	120	6	Mission Mangal
+12020078	137	7	Section 375
+12020078	172	8	Notebook
+12020078	173	9	Good Newwz
+12020078	249	7	Parmanu: The Story of Pokhran
+12020078	279	9	Stree
+12020078	284	7	Pataakha
+12020078	289	2	Mitron
+12020078	320	6	OK Jaanu
+12020078	323	5	Qarib Qarib Single
+12020078	353	9	Jolly LLB 2
+12020078	465	2	Kahaani 2
+12020083	19	5	Mosagallu
+12020083	58	7	Panga
+12020083	63	6	Tanhaji: The Unsung Warrior
+12020083	78	9	Shakuntala Devi
+12020083	81	5	Darbar
+12020083	107	4	Lucifer
+12020083	120	7	Mission Mangal
+12020083	137	5	Section 375
+12020083	141	7	Chhichhore
+12020083	155	5	Kabir Singh
+12020083	182	9	Commando 3
+12020083	158	10	Gully Boy
+12020083	204	6	Sonu Ke Titu Ki Sweety
+12020037	42	8	Shubh Mangal Zyada Saavdhan
+12020037	58	2	Panga
+12020037	62	4	Happy Hardy and Heer
+12020037	64	4	Bhoot: Part One - The Haunted Ship
+12020037	71	9	Ludo
+12020037	72	9	Lootcase
+12020037	75	7	Malang
+12020037	89	9	Gulabo Sitabo
+12020037	90	7	Chhapaak
+12020037	101	4	Manikarnika: The Queen of Jhansi
+12020037	102	2	The Sky Is Pink
+12020037	104	5	Mardaani 2
+12020037	107	9	Lucifer
+12020037	111	9.5	Chopsticks
+12020037	120	9	Mission Mangal
+12020037	122	8	Luka Chuppi
+12020037	147	8	Pati Patni Aur Woh
+12020037	153	4	The Lift Boy
+12020037	155	7	Kabir Singh
+12020037	156	9	Albert Pinto Ko Gussa Kyun Aata Hai?
+12020089	43	7	Angrezi Medium
+12020089	71	5.5	Ludo
+12020089	122	6	Luka Chuppi
+12020089	158	9	Gully Boy
+12020089	166	8	Dream Girl
+12020089	172	6.5	Notebook
+12020089	173	4	Good Newwz
+12020089	204	9	Sonu Ke Titu Ki Sweety
+12020089	233	9.5	Padmaavat
+12020089	244	7	Kedarnath
+12020089	288	10	Andhadhun
+12020089	434	8.5	Baaghi
+12020089	467	3	Rustom
+12020089	453	5	Sultan
+12020089	438	8	Dangal
+12020089	452	9.5	Udta Punjab
+12020089	402	3	Force 2
+12020089	383	8	Tiger Zinda Hai
+12020089	353	6	Jolly LLB 2
+12020089	340	9	Shubh Mangal Savdhan
+12020019	456	6	Happy Bhaag Jayegi
+12020019	353	6	Jolly LLB 2
+12020019	233	7	Padmaavat
+12020019	227	5	Rajma Chawal
+12020019	173	6	Good Newwz
+12020019	383	5	Tiger Zinda Hai
+12020019	385	5	Airlift
+12020019	262	8	Uri: The Surgical Strike
+12020019	249	8	Parmanu: The Story of Pokhran
+12020019	380	7	Hindi Medium
+12020019	358	1	Anaarkali of Aarah
+12020019	438	7	Dangal
+12020019	452	1	Udta Punjab
+12020019	155	2	Kabir Singh
+12020069	1	6.5	Ajeeb Daastaans
+12020069	2	5.1	The Big Bull
+12020069	3	5	Hello Charlie
+12020069	4	7.5	The White Tiger
+12020069	5	8.5	Ammaa Ki Boli
+12020069	6	8.5	Writing with Fire
+12020069	7	9.5	Refl3ct
+12020069	8	7.5	Kaagaz
+12020069	9	5	Raat Baaki Hai
+12020069	10	6	Sandeep Aur Pinky Faraar
+12020069	11	9.2	Cheer Haran
+12020069	12	6.5	Skater Girl
+12020069	13	7	Nail Polish
+12020069	14	9	Consequence Karma
+12020069	15	6	Tribhanga
+12020069	16	6	Silence: Can You Hear It
+12020069	17	9.2	Viraat
+12020069	18	6	Mumbai Saga
+12020069	19	7.9	Mosagallu
+12020069	20	9.2	Kaadan
+12020024	42	4	Shubh Mangal Zyada Saavdhan
+12020024	71	4	Ludo
+12020024	66	4.2	Ginny Weds Sunny
+12020024	18	4.5	Mumbai Saga
+12020024	40	4.5	Jawaani Jaaneman
+12020024	63	4.5	Tanhaji: The Unsung Warrior
+12020024	67	4.7	Chaman Bahaar
+12020024	26	5	Shaadisthan
+12020024	28	5	Thappad
+12020024	75	5	Malang
+12020024	30	5.2	Guilty
+12020024	41	6	Class of '83
+12020024	24	6.5	Pagglait
+12020024	2	7	The Big Bull
+12020024	36	7.5	Chhalaang
+12020024	51	7.5	Ghoomketu
+12020024	78	8	Shakuntala Devi
+12020024	43	8.5	Angrezi Medium
+12020024	48	8.6	Dil Bechara
+12020024	4	9	The White Tiger
+12020026	15	7	Tribhanga
+12020026	24	2	Pagglait
+12020026	28	7.5	Thappad
+12020026	36	6	Chhalaang
+12020026	41	6	Class of '83
+12020026	42	6	Shubh Mangal Zyada Saavdhan
+12020026	43	8	Angrezi Medium
+12020026	49	5	My Client's Wife
+12020026	57	6	Bahut Hua Sammaan
+12020026	63	7.5	Tanhaji: The Unsung Warrior
+12020026	71	8.5	Ludo
+12020026	72	8	Lootcase
+12020026	73	8	AK vs AK
+12020026	84	6.5	Gunjan Saxena: The Kargil Girl
+12020026	89	8	Gulabo Sitabo
+12020026	103	8	Super 30
+12020026	107	7	Lucifer
+12020026	123	8	Article 15
+12020026	134	6.5	Bala
+12020026	138	8.5	Kadakh
+12020026	141	7.5	Chhichhore
+12020026	155	6.5	Kabir Singh
+12020026	158	8	Gully Boy
+12020026	166	7	Dream Girl
+12020026	205	7	Raid
+12020026	209	7.5	Tumbbad
+12020026	214	7	October
+12020026	221	7.5	Raazi
+12020026	262	7.5	Uri: The Surgical Strike
+12020026	279	7.5	Stree
+12020026	285	6	Lust Stories
+12020026	329	6.5	Naam Shabana
+12020026	332	2	Rangoon
+12020026	338	8	Sachin - A Billion Dreams
+12020026	343	8	Newton
+12020026	356	4	Jagga Jasoos
+12020026	379	5	Jab Harry Met Sejal
+12020026	380	8	Hindi Medium
+12020026	385	6	Airlift
+12020026	386	6	Dear Dad
+12020026	397	8	M.S. Dhoni: The Untold Story
+12020026	427	8	Dear Zindagi
+12020026	437	7	Sarbjit
+12020026	438	8	Dangal
+12020026	454	3	Fitoor
+12020026	462	7.5	Te3n
+12020026	468	9	Lion
+12020005	84	10	Gunjan Saxena: The Kargil Girl
+12020005	288	9	Andhadhun
+12020005	416	9	Pink
+12020005	438	8	Dangal
+12020005	4	8	The White Tiger
+12020005	43	7	Angrezi Medium
+12020005	462	7	Te3n
+12020005	96	6	Batla House
+12020005	427	6	Dear Zindagi
+12020005	379	5	Jab Harry Met Sejal
+12020005	167	4	Ramprasad Ki Tehrvi
+12020005	456	4	Happy Bhaag Jayegi
+12020005	469	4	Mohenjo Daro
+12020005	92	3	Welcome Home
+12020005	413	3	Ki & Ka
+12020005	151	2	Ek Ladki Ko Dekha Toh Aisa Laga
+12020005	320	2	OK Jaanu
+12020005	423	2	Ghayal Once Again
+12020005	327	1	Mubarakan
+12020005	411	1	Tutak Tutak Tutiya
+12020033	221	10	Raazi
+12020033	158	10	Gully Boy
+12020033	240	10	Badhaai Ho
+12020033	233	9	Padmaavat
+12020033	262	9	Uri: The Surgical Strike
+12020033	340	8	Shubh Mangal Savdhan
+12020033	438	8	Dangal
+12020033	227	7	Rajma Chawal
+12020033	431	7	Lipstick Under My Burkha
+12020033	42	6	Shubh Mangal Zyada Saavdhan
+12020033	78	6	Shakuntala Devi
+12020033	279	5	Stree
+12020033	58	4	Panga
+12020033	96	4	Batla House
+12020033	103	3	Super 30
+12020033	465	3	Kahaani 2
+12020033	196	2	Love Per Square Foot
+12020033	469	2	Mohenjo Daro
+12020033	147	1	Pati Patni Aur Woh
+12020033	204	1	Sonu Ke Titu Ki Sweety
+12010005	179	7	War
+12010005	180	6.5	Malaal
+12010005	181	7.6	Badnaam Gali
+12010005	182	6.2	Commando 3
+12010005	183	6.4	Nirvana Inn
+12010005	184	7.5	Gone Kesh
+12010005	185	7.7	Saand Ki Aankh
+12010005	186	7	Chippa
+12010005	187	6.9	Pailwaan
+12010005	188	6.4	Prassthanam
+12010005	189	6.5	Why Cheat India
+12010005	190	6.5	Jalebi
+12010005	191	8.3	Laila Majnu
+12010005	192	7.5	Bhonsle
+12010005	193	8.4	Har Kisse Ke Hisse: Kaamyaab
+12010005	194	7.7	Halkaa
+12010005	195	8.9	Reva
+12010005	196	7.7	Love Per Square Foot
+12010005	197	6.4	Nanu Ki Jaanu
+12010005	198	8.1	Bhavesh Joshi Superhero
+12020014	28	8	Thappad
+12020014	42	5	Shubh Mangal Zyada Saavdhan
+12020014	43	8	Angrezi Medium
+12020014	58	8	Panga
+12020014	63	8	Tanhaji: The Unsung Warrior
+12020014	78	8.5	Shakuntala Devi
+12020014	101	8.5	Manikarnika: The Queen of Jhansi
+12020014	103	8.5	Super 30
+12020014	104	6	Mardaani 2
+12020014	120	8	Mission Mangal
+12020014	122	6	Luka Chuppi
+12020014	140	7.5	Kesari
+12020014	141	8.5	Chhichhore
+12020014	155	8	Kabir Singh
+12020014	158	8	Gully Boy
+12020014	173	8.5	Good Newwz
+12020014	185	8.5	Saand Ki Aankh
+12020014	205	8.5	Raid
+12020014	240	8	Badhaai Ho
+12020014	244	8	Kedarnath
+12020014	268	8	Pad Man
+12020014	323	7.5	Qarib Qarib Single
+12020014	438	8.5	Dangal
+12020014	453	8.5	Sultan
+12020014	467	8	Rustom
+12020079	2	4	The Big Bull
+12020079	4	6	The White Tiger
+12020079	24	8	Pagglait
+12020079	28	4	Thappad
+12020079	31	7	Raat Akeli Hai
+12020079	42	5	Shubh Mangal Zyada Saavdhan
+12020079	48	2	Dil Bechara
+12020079	63	9	Tanhaji: The Unsung Warrior
+12020079	66	6	Ginny Weds Sunny
+12020079	71	8	Ludo
+12020079	72	9	Lootcase
+12020079	73	1	AK vs AK
+12020079	78	7	Shakuntala Devi
+12020079	84	2	Gunjan Saxena: The Kargil Girl
+12020079	89	1	Gulabo Sitabo
+12020079	101	1	Manikarnika: The Queen of Jhansi
+12020079	103	8	Super 30
+12020079	104	7	Mardaani 2
+12020079	140	9	Kesari
+12020079	150	8	Badla
+12020029	2	6	The Big Bull
+12020029	23	5	Gaurav Gupta: Market Down Hai
+12020029	27	7	Flight
+12020029	28	6	Thappad
+12020029	42	8	Shubh Mangal Zyada Saavdhan
+12020029	43	8	Angrezi Medium
+12020029	63	9	Tanhaji: The Unsung Warrior
+12020029	71	9	Ludo
+12020029	75	5	Malang
+12020029	78	7	Shakuntala Devi
+12020029	83	8	Unpaused
+12020029	90	7	Chhapaak
+12020029	96	7	Batla House
+12020029	102	9	The Sky Is Pink
+12020029	103	9	Super 30
+12020029	104	8	Mardaani 2
+12020029	111	9	Chopsticks
+12020029	114	6	Ujda Chaman
+12020029	120	8	Mission Mangal
+12020029	121	10	Made in China
+12020029	123	9	Article 15
+12020029	134	7	Bala
+12020029	140	10	Kesari
+12020029	141	9	Chhichhore
+12020029	155	4	Kabir Singh
+12020029	158	8	Gully Boy
+12020029	161	7	Judgementall Hai Kya
+12020029	162	8	The Tashkent Files
+12020029	166	8	Dream Girl
+12020029	169	2	Chhota Bheem Kung Fu Dhamaka
+12020029	173	4	Good Newwz
+12020029	196	6	Love Per Square Foot
+12020029	204	8	Sonu Ke Titu Ki Sweety
+12020029	209	10	Tumbbad
+12020029	214	3	October
+12020029	219	6	GOLD
+12020029	221	10	Raazi
+12020029	226	5	Sanju
+12020029	233	5	Padmaavat
+12020029	240	9	Badhaai Ho
+12020029	243	7	Pari
+12020029	249	8	Parmanu: The Story of Pokhran
+12020029	256	8	Sui Dhaaga
+12020029	262	9	Uri: The Surgical Strike
+12020029	264	8	Hichki
+12020029	265	4	Vaibhav Sethia: Don't
+12020029	268	8	Pad Man
+12020029	278	7	102 Not Out
+12020029	279	8	Stree
+12020029	281	9	Karwaan
+12020029	285	7	Lust Stories
+12020029	288	9	Andhadhun
+12020029	289	6	Mitron
+12020029	298	4	Guest iin London
+12020029	306	7	Tumhari Sulu
+12020029	310	8	Toilet: A Love Story
+12020029	311	5	Badrinath Ki Dulhania
+12020029	315	7	The Ghazi Attack
+12020029	335	8	Secret Superstar
+12020029	343	8	Newton
+12020029	344	7	Ribbon
+12020029	352	8	Simran
+12020029	353	7	Jolly LLB 2
+12020029	359	7	Chef
+12020029	387	1	Chhota Bheem Himalayan Adventure
+12020029	397	8	M.S. Dhoni: The Untold Story
+12020029	408	7	Pihu
+12020029	413	6	Ki & Ka
+12020029	416	9	Pink
+12020029	427	4	Dear Zindagi
+12020029	428	4	Kapoor & Sons
+12020029	431	8	Lipstick Under My Burkha
+12020029	433	9	Neerja
+12020029	438	8	Dangal
+12020029	459	8	Trapped
+12020029	462	9	Te3n
+12020029	463	8	Wazir
+12020029	465	7	Kahaani 2
+12020029	467	8	Rustom
+12020029	469	1	Mohenjo Daro
+12020050	4	7.5	The White Tiger
+12020050	40	5.5	Jawaani Jaaneman
+12020050	42	8.5	Shubh Mangal Zyada Saavdhan
+12020050	66	5.5	Ginny Weds Sunny
+12020050	67	7.4	Chaman Bahaar
+12020050	71	6.6	Ludo
+12020050	72	8.7	Lootcase
+12020050	89	6.1	Gulabo Sitabo
+12020050	122	6.7	Luka Chuppi
+12020050	137	8.7	Section 375
+12020050	209	9.9	Tumbbad
+12020050	249	6.9	Parmanu: The Story of Pokhran
+12020050	262	8.6	Uri: The Surgical Strike
+12020050	356	5.1	Jagga Jasoos
+12020050	397	7.9	M.S. Dhoni: The Untold Story
+12020050	416	7.5	Pink
+12020050	431	5.5	Lipstick Under My Burkha
+12020050	432	1	MSG the Warrior: Lion Heart
+12020050	457	5.6	Dishoom
+12020050	469	5.2	Mohenjo Daro
+12010034	438	8.5	Dangal
+12010034	107	7.5	Lucifer
+12010034	141	8	Chhichhore
+12010034	221	8	Raazi
+12010034	264	8.2	Hichki
+12010034	459	7.5	Trapped
+12010034	462	8.1	Te3n
+12010034	468	7.8	Lion
+12010034	471	7.5	Phobia
+12010034	452	7.5	Udta Punjab
+12010034	353	7	Jolly LLB 2
+12010034	380	8	Hindi Medium
+12010034	385	7.9	Airlift
+12010034	416	7	Pink
+12010034	338	6	Sachin - A Billion Dreams
+12010034	339	6	Baaraat Company
+12010034	340	7	Shubh Mangal Savdhan
+12010034	341	6	Maroon
+12010034	342	6	Begum Jaan
+12010034	343	8	Newton
+12020048	9	6	Raat Baaki Hai
+12020048	41	6	Class of '83
+12020048	63	5	Tanhaji: The Unsung Warrior
+12020048	123	8	Article 15
+12020048	148	7	Kanpuriye
+12020048	158	5	Gully Boy
+12020048	162	9	The Tashkent Files
+12020048	204	7	Sonu Ke Titu Ki Sweety
+12020048	205	9	Raid
+12020048	214	8	October
+12020048	217	6	Zero
+12020048	221	9	Raazi
+12020048	226	5	Sanju
+12020048	244	6	Kedarnath
+12020048	249	7	Parmanu: The Story of Pokhran
+12020048	268	5	Pad Man
+12020048	310	8	Toilet: A Love Story
+12020048	327	6	Mubarakan
+12020048	353	6	Jolly LLB 2
+12020048	368	7	Raees
+12020088	43	9	Angrezi Medium
+12020088	42	10	Shubh Mangal Zyada Saavdhan
+12020088	48	7	Dil Bechara
+12020088	71	5	Ludo
+12020088	84	9	Gunjan Saxena: The Kargil Girl
+12020088	102	10	The Sky Is Pink
+12020088	101	6	Manikarnika: The Queen of Jhansi
+12020088	103	10	Super 30
+12020088	109	7	The Accidental Prime Minister
+12020088	111	8	Chopsticks
+12020088	123	9	Article 15
+12020088	121	8	Made in China
+12020088	141	7	Chhichhore
+12020088	151	4	Ek Ladki Ko Dekha Toh Aisa Laga
+12020088	158	9	Gully Boy
+12020088	180	8	Malaal
+12020088	181	5	Badnaam Gali
+12020088	182	8	Commando 3
+12020088	183	6	Nirvana Inn
+12020102	4	5	The White Tiger
+12020102	28	4	Thappad
+12020102	63	6	Tanhaji: The Unsung Warrior
+12020102	75	4	Malang
+12020102	101	7	Manikarnika: The Queen of Jhansi
+12020102	104	5	Mardaani 2
+12020102	107	6	Lucifer
+12020102	120	9	Mission Mangal
+12020102	140	9	Kesari
+12020102	147	5	Pati Patni Aur Woh
+12020102	155	8	Kabir Singh
+12020102	177	4	99 Songs
+12020102	204	7	Sonu Ke Titu Ki Sweety
+12020102	239	4	Vishwaroopam 2
+12020102	241	6	Simmba
+12020102	244	9	Kedarnath
+12020102	279	7	Stree
+12020102	316	7	Mom
+12020102	320	3	OK Jaanu
+12020102	387	5	Chhota Bheem Himalayan Adventure
+12020102	405	4	Veerappan
+12020102	418	8	Kabali
+12020102	427	9	Dear Zindagi
+12020102	438	8	Dangal
+12020102	453	6	Sultan
+12020004	48	7.5	Dil Bechara
+12020004	141	9	Chhichhore
+12020004	233	9.5	Padmaavat
+12020004	262	9.5	Uri: The Surgical Strike
+12020004	315	10	The Ghazi Attack
+12020004	397	8.5	M.S. Dhoni: The Untold Story
+12020004	408	7	Pihu
+12020004	413	6	Ki & Ka
+12020004	416	8.5	Pink
+12020004	434	7.4	Baaghi
+12020004	438	8.2	Dangal
+12020004	453	8.1	Sultan
+12020004	464	8.5	Saala Khadoos
+12020004	469	6	Mohenjo Daro
+12020067	0	5	B.A. Pass 3
+12020067	1	8	Ajeeb Daastaans
+12020067	2	4.5	The Big Bull
+12020067	3	7.8	Hello Charlie
+12020067	4	7.3	The White Tiger
+12020067	5	7.1	Ammaa Ki Boli
+12020067	6	8.1	Writing with Fire
+12020067	7	7.1	Refl3ct
+12020067	8	6.1	Kaagaz
+12020067	9	5.1	Raat Baaki Hai
+12020067	10	5.6	Sandeep Aur Pinky Faraar
+12020067	11	7.1	Cheer Haran
+12020067	12	8.9	Skater Girl
+12020067	13	6.1	Nail Polish
+12020067	14	7.2	Consequence Karma
+12020067	15	5.1	Tribhanga
+12020067	16	6.2	Silence: Can You Hear It
+12020067	17	5.7	Viraat
+12020067	18	6.8	Mumbai Saga
+12020067	19	5.2	Mosagallu
+12020025	262	9	Uri: The Surgical Strike
+12020025	264	5	Hichki
+12020025	408	8	Pihu
+12020025	413	9	Ki & Ka
+12020025	416	9	Pink
+12020025	427	2	Dear Zindagi
+12020025	434	4	Baaghi
+12020025	438	8	Dangal
+12020025	452	6	Udta Punjab
+12020025	28	8	Thappad
+12020025	380	7	Hindi Medium
+12020025	323	8	Qarib Qarib Single
+12020025	235	7	Blackmail
+12020025	397	9	M.S. Dhoni: The Untold Story
+12020025	408	3	Pihu
+12020046	43	7	Angrezi Medium
+12020046	109	9	The Accidental Prime Minister
+12020046	141	8	Chhichhore
+12020046	155	7	Kabir Singh
+12020046	204	6	Sonu Ke Titu Ki Sweety
+12020046	221	10	Raazi
+12020046	227	7	Rajma Chawal
+12020046	244	6	Kedarnath
+12020046	262	8	Uri: The Surgical Strike
+12020046	278	7	102 Not Out
+12020046	304	6	Fukrey Returns
+12020046	310	6	Toilet: A Love Story
+12020046	323	8	Qarib Qarib Single
+12020046	335	9	Secret Superstar
+12020046	353	7	Jolly LLB 2
+12020046	366	1	Phillauri
+12020046	380	10	Hindi Medium
+12020046	385	6	Airlift
+12020046	404	4	Ae Dil Hai Mushkil
+12020046	427	9	Dear Zindagi
+12020046	431	6	Lipstick Under My Burkha
+12020046	438	9	Dangal
+12020046	442	9	Bollywood Diaries
+12020046	453	8	Sultan
+12020046	463	10	Wazir
+12020047	0	6	B.A. Pass 3
+12020047	1	5	Ajeeb Daastaans
+12020047	2	9	The Big Bull
+12020047	4	8	The White Tiger
+12020047	10	6	Sandeep Aur Pinky Faraar
+12020047	469	2	Mohenjo Daro
+12020047	467	8	Rustom
+12020047	463	7	Wazir
+12020047	457	4	Dishoom
+12020047	456	7	Happy Bhaag Jayegi
+12020047	454	3	Fitoor
+12020047	453	6	Sultan
+12020047	452	8	Udta Punjab
+12020047	439	5	Fan
+12020047	438	10	Dangal
+12020047	437	6	Sarbjit
+12020047	434	2	Baaghi
+12020047	433	7	Neerja
+12020047	428	8	Kapoor & Sons
+12020047	427	10	Dear Zindagi
+12020047	412	8	Laal Rang
+12020047	404	5	Ae Dil Hai Mushkil
+12020070	15	9	Tribhanga
+12020070	24	7	Pagglait
+12020070	25	9	Secrets of Sinauli
+12020070	28	7	Thappad
+12020070	41	6	Class of '83
+12020070	42	7	Shubh Mangal Zyada Saavdhan
+12020070	43	6	Angrezi Medium
+12020070	48	7	Dil Bechara
+12020070	63	4	Tanhaji: The Unsung Warrior
+12020070	66	5	Ginny Weds Sunny
+12020070	71	8	Ludo
+12020070	78	7	Shakuntala Devi
+12020070	89	6	Gulabo Sitabo
+12020070	103	6	Super 30
+12020070	134	8	Bala
+12020070	140	7	Kesari
+12020070	155	6	Kabir Singh
+12020070	158	9	Gully Boy
+12020070	179	3	War
+12020070	217	2	Zero
+12020087	0	9	B.A. Pass 3
+12020087	1	3	Ajeeb Daastaans
+12020087	2	8	The Big Bull
+12020087	3	2	Hello Charlie
+12020087	4	6	The White Tiger
+12020087	5	2	Ammaa Ki Boli
+12020087	6	4	Writing with Fire
+12020087	7	7	Refl3ct
+12020087	8	10	Kaagaz
+12020087	9	2	Raat Baaki Hai
+12020087	10	8	Sandeep Aur Pinky Faraar
+12020087	11	2	Cheer Haran
+12020087	12	10	Skater Girl
+12020087	13	7	Nail Polish
+12020087	14	3	Consequence Karma
+12020087	15	6	Tribhanga
+12020087	16	1	Silence: Can You Hear It
+12020087	17	10	Viraat
+12020087	18	10	Mumbai Saga
+12020002	219	9	GOLD
+12020002	220	6	Maassab (The Teacher)
+12020002	221	8	Raazi
+12020002	222	2	Khajoor Pe Atke
+12020002	223	5	Purdah
+12020002	224	6	Vada Chennai
+12020002	225	6	Bulbul Can Sing
+12020002	226	3	Sanju
+12020002	227	7	Rajma Chawal
+12020002	228	4	Tony: My Mentor the Serial Killer
+12020002	229	7	High Jack
+12020002	230	1	Hamid
+12020002	231	5	AA BB KK
+12020002	232	4	Silvat
+12020002	233	9	Padmaavat
+12020002	234	8	Reason
+12020002	235	5	Blackmail
+12020002	237	6	Soorma
+12020002	238	7	Batti Gul Meter Chalu
+12010083	15	8	Tribhanga
+12010083	48	10	Dil Bechara
+12010083	84	8	Gunjan Saxena: The Kargil Girl
+12010083	107	10	Lucifer
+12010083	155	10	Kabir Singh
+12010083	221	10	Raazi
+12010083	262	10	Uri: The Surgical Strike
+12010083	281	8	Karwaan
+12010083	315	9	The Ghazi Attack
+12010083	338	8	Sachin - A Billion Dreams
+12010083	405	7	Veerappan
+12010083	433	10	Neerja
+12010083	438	10	Dangal
+12010083	233	9	Padmaavat
+12010083	142	9	Little Baby
+12010083	269	6	Kaalakaandi
+12010083	204	6	Sonu Ke Titu Ki Sweety
+12010083	356	6	Jagga Jasoos
+12010083	239	6	Vishwaroopam 2
+12010083	120	8	Mission Mangal
+12010083	19	8	Mosagallu
+12020006	25	9	Secrets of Sinauli
+12020006	63	4	Tanhaji: The Unsung Warrior
+12020006	315	10	The Ghazi Attack
+12020006	44	1	Choked
+12020006	90	5	Chhapaak
+12020006	178	2	NTR Kathanayakudu
+12020006	28	6	Thappad
+12020006	431	8	Lipstick Under My Burkha
+12020006	301	8	Bioscopewala
+12020006	48	7	Dil Bechara
+12020006	404	6	Ae Dil Hai Mushkil
+12020006	282	9	Seeking Happily Ever After
+12020006	288	7	Andhadhun
+12020006	14	10	Consequence Karma
+12020006	49	3	My Client's Wife
+12020006	123	2	Article 15
+12020006	168	6	"I Am Alone, So Are You..."
+12020006	265	5	Vaibhav Sethia: Don't
+12020006	262	10	Uri: The Surgical Strike
+12020006	471	7	Phobia
+12020090	407	5.75	An Insignificant Man
+12020090	342	5.03	Begum Jaan
+12020090	69	9.7	Cookie
+12020090	390	9.25	Global Baba
+12020090	451	7.51	Naam Hai Akira
+12020090	41	2.72	Class of '83
+12020090	283	3.69	Shohrat the Trap
+12020090	329	3.36	Naam Shabana
+12020090	454	1.14	Fitoor
+12020090	381	1.5	Phullu
+12020090	279	8.79	Stree
+12020090	377	5.11	Kadvi Hawa
+12020090	270	7.62	Kuchh Bheege Alfaaz
+12020090	416	1.4	Pink
+12020090	409	8.39	Land of the Gods
+12020090	87	7.44	Chintu Ka Birthday
+12020090	301	7.23	Bioscopewala
+12020090	361	8.28	Bhoomi
+12020090	436	8.12	Chalk N Duster
+12020090	367	1.33	The Song of Scorpions
+12020043	416	7.8	Pink
+12020043	465	6	Kahaani 2
+12020043	469	5.1	Mohenjo Daro
+12020043	322	6.5	LIE
+12020043	335	8.5	Secret Superstar
+12020043	357	4.8	Bank Chor
+12020043	359	5.9	Chef
+12020043	397	8.9	M.S. Dhoni: The Untold Story
+12020043	221	8.4	Raazi
+12020043	264	7	Hichki
+12020043	281	7.8	Karwaan
+12020043	291	5	Missing
+12020043	315	8.6	The Ghazi Attack
+12020043	19	6.2	Mosagallu
+12020043	72	7.8	Lootcase
+12020043	78	6	Shakuntala Devi
+12020043	120	7.5	Mission Mangal
+12020043	179	8.5	War
+12020023	123	9.4	Article 15
+12020023	452	9.2	Udta Punjab
+12020023	338	8.2	Sachin - A Billion Dreams
+12020023	438	9	Dangal
+12020023	158	8.3	Gully Boy
+12020023	141	7.7	Chhichhore
+12020023	380	7	Hindi Medium
+12020023	428	8	Kapoor & Sons
+12020023	84	7.5	Gunjan Saxena: The Kargil Girl
+12020023	2	6.7	The Big Bull
+12020023	43	8.3	Angrezi Medium
+12020023	87	7.7	Chintu Ka Birthday
+12020023	397	8.5	M.S. Dhoni: The Untold Story
+12020023	372	6.3	Kaabil
+12020023	109	5.7	The Accidental Prime Minister
+12020023	122	5.8	Luka Chuppi
+12020023	120	6.4	Mission Mangal
+12020023	150	8.7	Badla
+12020023	323	8.1	Qarib Qarib Single
+12020023	340	7.6	Shubh Mangal Savdhan
+12020044	0	1	B.A. Pass 3
+12020044	2	10	The Big Bull
+12020044	28	7	Thappad
+12020044	42	9	Shubh Mangal Zyada Saavdhan
+12020044	43	5	Angrezi Medium
+12020044	48	3	Dil Bechara
+12020044	102	10	The Sky Is Pink
+12020044	114	8	Ujda Chaman
+12020044	120	4	Mission Mangal
+12020044	196	6	Love Per Square Foot
+12020044	204	6	Sonu Ke Titu Ki Sweety
+12020044	205	9	Raid
+12020044	221	8	Raazi
+12020044	244	7	Kedarnath
+12020044	241	6	Simmba
+12020044	262	10	Uri: The Surgical Strike
+12020044	278	2	102 Not Out
+12020044	432	1	MSG the Warrior: Lion Heart
+12020044	416	10	Pink
+12020044	384	1	A Gentleman
+12020040	0	5	B.A. Pass 3
+12020040	1	9	Ajeeb Daastaans
+12020040	2	10	The Big Bull
+12020040	3	5	Hello Charlie
+12020040	4	7	The White Tiger
+12020040	5	10	Ammaa Ki Boli
+12020040	6	8	Writing with Fire
+12020040	7	9	Refl3ct
+12020040	8	7	Kaagaz
+12020040	9	2	Raat Baaki Hai
+12020040	10	5	Sandeep Aur Pinky Faraar
+12020040	11	4	Cheer Haran
+12020040	12	6	Skater Girl
+12020040	13	6	Nail Polish
+12020040	14	4	Consequence Karma
+12020040	15	10	Tribhanga
+12020040	16	7	Silence: Can You Hear It
+12020040	17	6	Viraat
+12020040	18	3	Mumbai Saga
+12020040	19	8	Mosagallu
+12020040	20	10	Kaadan
+12010035	77	7	V
+12010035	84	8	Gunjan Saxena: The Kargil Girl
+12010035	102	7	The Sky Is Pink
+12010035	123	8	Article 15
+12010035	150	8	Badla
+12010035	158	4	Gully Boy
+12010035	196	6	Love Per Square Foot
+12010035	204	7	Sonu Ke Titu Ki Sweety
+12010035	221	9	Raazi
+12010035	236	6	2
+12010035	240	8	Badhaai Ho
+12010035	262	9	Uri: The Surgical Strike
+12010035	291	5	Missing
+12010035	387	8	Chhota Bheem Himalayan Adventure
+12010035	404	6	Ae Dil Hai Mushkil
+12010035	408	4	Pihu
+12010035	416	8	Pink
+12010035	418	7	Kabali
+12010035	455	3	A Death in the Gunj
+12010035	462	8	Te3n
+12020080	28	6	Thappad
+12020080	41	6	Class of '83
+12020080	79	8	Khuda Haafiz
+12020080	179	8	War
+12020080	206	8	Aiyaary
+12020080	209	9	Tumbbad
+12020080	221	9	Raazi
+12020080	240	7	Badhaai Ho
+12020080	249	6	Parmanu: The Story of Pokhran
+12020080	262	9	Uri: The Surgical Strike
+12020080	264	9	Hichki
+12020080	309	10	Poorna
+12020080	315	5	The Ghazi Attack
+12020080	316	7	Mom
+12020080	463	8	Wazir
+12020080	467	8	Rustom
+12020080	40	4	Jawaani Jaaneman
+12020080	48	3	Dil Bechara
+12020080	89	2	Gulabo Sitabo
+12020080	101	1	Manikarnika: The Queen of Jhansi
+12020086	469	2.2	Mohenjo Daro
+12020086	416	5.7	Pink
+12020086	368	5.8	Raees
+12020086	333	6	Ajji
+12020086	315	7.1	The Ghazi Attack
+12020086	288	6.7	Andhadhun
+12020086	278	6.6	102 Not Out
+12020086	262	7.8	Uri: The Surgical Strike
+12020086	240	6.4	Badhaai Ho
+12020086	233	6.5	Padmaavat
+12020086	214	6.3	October
+12020086	209	6.1	Tumbbad
+12020086	198	2.8	Bhavesh Joshi Superhero
+12020086	173	4.9	Good Newwz
+12020086	158	6.8	Gully Boy
+12020086	143	3.9	Thackeray
+12020086	140	7.2	Kesari
+12020086	64	4.5	Bhoot: Part One - The Haunted Ship
+12020086	42	5.5	Shubh Mangal Zyada Saavdhan
+12020086	6	7.7	Writing with Fire
+12020016	4	7.5	The White Tiger
+12020016	77	3.5	V
+12020016	141	9	Chhichhore
+12020016	158	7.5	Gully Boy
+12020016	219	9.5	GOLD
+12020016	226	7	Sanju
+12020016	233	8	Padmaavat
+12020016	236	4	2
+12020016	262	10	Uri: The Surgical Strike
+12020016	288	9	Andhadhun
+12020016	315	9	The Ghazi Attack
+12020016	322	6	LIE
+12020016	335	9.5	Secret Superstar
+12020016	338	7.5	Sachin - A Billion Dreams
+12020016	397	9	M.S. Dhoni: The Untold Story
+12020016	404	4	Ae Dil Hai Mushkil
+12020016	416	9	Pink
+12020016	433	8	Neerja
+12020016	453	8.5	Sultan
+12020016	454	5.5	Fitoor
+12020051	158	7	Gully Boy
+12020051	155	7	Kabir Singh
+12020051	178	6	NTR Kathanayakudu
+12020051	209	10	Tumbbad
+12020051	233	9	Padmaavat
+12020051	236	7	2
+12020051	315	8	The Ghazi Attack
+12020051	338	6	Sachin - A Billion Dreams
+12020051	397	8	M.S. Dhoni: The Untold Story
+12020051	432	1	MSG the Warrior: Lion Heart
+12020051	322	5	LIE
+12020051	416	9	Pink
+12020099	7	9.5	Refl3ct
+12020099	338	8.3	Sachin - A Billion Dreams
+12020099	158	8.1	Gully Boy
+12020099	380	7.6	Hindi Medium
+12020099	380	7.5	Hindi Medium
+12020099	226	7.4	Sanju
+12020099	279	6	Stree
+12020099	86	2	Taish
+12020099	175	5.2	Junglee
+12020099	352	3	Simran
+12020038	10	8	Sandeep Aur Pinky Faraar
+12020038	25	9.1	Secrets of Sinauli
+12020038	43	8	Angrezi Medium
+12020038	57	8.5	Bahut Hua Sammaan
+12020038	89	8.4	Gulabo Sitabo
+12020038	90	2	Chhapaak
+12020038	109	4	The Accidental Prime Minister
+12020038	223	8.8	Purdah
+12020038	257	8.5	Roshni
+12020038	266	3.5	Manto
+12020038	317	2	The House Next Door
+12020038	407	8.2	An Insignificant Man
+12020038	420	5.1	Rebellious Flower
+12020038	33	8.5	Dhira
+12020038	108	8.8	Bombay Rose
+12020055	4	7	The White Tiger
+12020055	28	6	Thappad
+12020055	71	7	Ludo
+12020055	73	6	AK vs AK
+12020055	94	3	Panipat
+12020055	96	8	Batla House
+12020055	101	9	Manikarnika: The Queen of Jhansi
+12020055	102	7	The Sky Is Pink
+12020055	103	9	Super 30
+12020055	158	5	Gully Boy
+12020055	209	9	Tumbbad
+12020055	217	2	Zero
+12020055	233	8	Padmaavat
+12020055	262	9	Uri: The Surgical Strike
+12020055	353	6	Jolly LLB 2
+12020055	397	9	M.S. Dhoni: The Untold Story
+12020068	1	5	Ajeeb Daastaans
+12020068	24	6	Pagglait
+12020068	28	10	Thappad
+12020068	42	9	Shubh Mangal Zyada Saavdhan
+12020068	71	9	Ludo
+12020068	120	7	Mission Mangal
+12020068	123	7	Article 15
+12020068	166	6	Dream Girl
+12020068	268	5	Pad Man
+12020068	285	4	Lust Stories
+12020068	288	9	Andhadhun
+12020068	311	3	Badrinath Ki Dulhania
+12020068	315	8	The Ghazi Attack
+12020068	332	2	Rangoon
+12020068	335	6	Secret Superstar
+12020068	368	1	Raees
+12020068	379	1	Jab Harry Met Sejal
+12020068	385	8	Airlift
+12020068	404	6	Ae Dil Hai Mushkil
+12020068	413	6	Ki & Ka
+12020068	427	8	Dear Zindagi
+12020068	428	8	Kapoor & Sons
+12020068	438	9	Dangal
